@@ -7,4 +7,5 @@ public class MsgBean {
 	//A画面表示用メイセージ
 	public static String aMsg = "AMsg print";
 
+	public static String cMsg = "CMsg print";
 }
