@@ -9,11 +9,11 @@ public class SampleController {
 	SampleService sampleService = new SampleService();
 	
 	public String index(SampleModel sampleModel){
-		//¥µ©`¥Ó¥¹¤òºô¤Ó³ö¤·¡¢»­Ãæ³õÆÚ»¯ÔO¶¨
+		//ã‚µãƒ¼ãƒ“ã‚¹ã‚’å‘¼ã³å‡ºã—ã€ç”»é¢åˆæœŸè¨­å®š
 		sampleService.init(sampleModel);
-		//logÓ›åh
+		//ãƒ­ã‚°è¡¨ç¤º
 		System.out.println(MsgBean.sampleMsg);
-		//»­ÃæßwÒÆ
+		//ç”»é¢é·ç§»
 		return "sample.html";
 	}
 	
