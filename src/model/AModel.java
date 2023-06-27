@@ -1,7 +1,7 @@
 package model;
 
 public class AModel {
-	/*¥æ©`¥¶©`Ãû */
+	/*ãƒ¦ãƒ¼ã‚¶ãƒ¼å */
 	private String name;
 
 	public String getName() {
@@ -11,17 +11,17 @@ public class AModel {
 	public void setName(String name) {
 		this.name = name;
 	}
-	/*¥æ©`¥¶©`Ãû */
+	/*æ€§åˆ¥ */
 	private String sex;
 
 	public String getSex() {
 		return sex;
 	}
 
-	public void setName(String sex) {
+	public void setSex(String sex) {
 		this.sex = sex;
 	}
-	/*¥æ©`¥¶©`Ãû */
+	/*å°‚é–€ */
 	private String major;
 
 	public String getMajor() {

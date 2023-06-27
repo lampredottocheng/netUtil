@@ -1,7 +1,7 @@
 package model;
 
 public class SampleModel {
-	/*¥æ©`¥¶©`Ãû */
+	/*ãƒ¦ãƒ¼ã‚¶ãƒ¼å*/
 	private String name;
 
 	public String getName() {

@@ -3,7 +3,7 @@ package service;
 import model.SampleModel;
 
 public class SampleService {
-	//»­Ãæ³õÆÚ»¯„IÀí
+	//ç”»é¢åˆæœŸåŒ–å‡¦ç†
 	public int init(SampleModel sampleModel){
 		sampleModel.setName("zhangsan");
 		return 1;
