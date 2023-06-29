@@ -1,1 +1,1 @@
-# netUtil
+# netUtil Java demo
